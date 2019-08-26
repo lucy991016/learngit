@@ -1,1 +1,1 @@
-init hehehehe  llalall hello
+init hello
